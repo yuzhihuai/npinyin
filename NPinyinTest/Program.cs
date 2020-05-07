@@ -35,7 +35,8 @@ namespace NPinyinTest
         "酞丁安软膏",
         "咪康唑软膏、栓剂",
         "甲硝唑栓",
-        "复方莪术油栓"
+        "复方莪术油栓",
+        "筼筜社区"
       };
 
       Console.WriteLine("UTF8句子拼音：");
